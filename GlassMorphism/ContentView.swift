@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  GlassMorphism
-//
-//  Created by Wesley Matlock on 2/22/22.
-//
-
 import SwiftUI
 
 struct ContentView: View {
